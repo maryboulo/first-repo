@@ -16,7 +16,7 @@ int main()
 
 }
 
-void selection_sort(int*p,int size){
+/*void selection_sort(int*p,int size){
 
     int i,j,temp;
     for(i=0;i<size-1;i++){
@@ -29,6 +29,6 @@ void selection_sort(int*p,int size){
             }
         }
     }
-}
+}*/
 
 
